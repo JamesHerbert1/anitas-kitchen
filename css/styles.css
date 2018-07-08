@@ -69,7 +69,7 @@ width: 75px;
 /*-------END MEDIA, OVERLAY AND TEXT----------*/
 
 .bg-1{
-padding: 0;
+padding: ;
 }
 .bg-10{
 padding: 0;
@@ -123,7 +123,7 @@ transform: translate(-50%, -50%);
 }
 .textt {
 text-align: center;
-margin-top: 2%;
+margin-top: 0%;
 color: #ffffff;
 }
 #text1{
