@@ -135,7 +135,7 @@ padding: 5%;
 text-align: right;
 }
 #text3{
-padding: 5%;
+padding: %;
 text-align: center;
 }
 
@@ -182,28 +182,8 @@ width: 100%;
 background-color: #ccc;
 }
 .customers{
-  padding: 10%;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  text-align: center;
-}
-.png{
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-.foo{
-  box-shadow: 0.2px 2px 2px 2px grey;
-	height: auto;
-	padding : 50px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-}
-.shaded{
-  border-left:
-  border-left: 2px grey;
-}
-.muya{
-  border-right: #F0F3F4 outset;
-	padding-top: 20px;
+padding: 10%;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .mail{
 text-align: center;
