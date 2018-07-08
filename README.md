@@ -1,14 +1,24 @@
-# Independent Project
+Anitas-kitchen
+Anita's Kitchen
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
+>Author: James Agembe
+>
+>---------------------------
+>
+>Project Name: Anita's Kitchen
+>
+>---------------------------
+>
+### Description
+> This project is  a landing page for Anita's business.
+>It has been developed using HTML, CSS and BOOTSTRAP.
+>The main objective is to understand the styling of webpages and the basics of styling using css.
+>
+>---------------------------
+>
+>Link to deployed page _(click here)_<a href="https://jamesherbert1.github.io/anitas-kitchen/" title="Title">
+Anita's Kitchen</a>
+>
+>---------------------------
 
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
-  
-  3) Fix up the folder structure.
-
-  4) Submit your link through Moringa School LMS.
-
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+&copy; JamesAgembe | Credits <a href="http://moringaschool.com/" title="Title">MORINGA SCHOOL</a>
